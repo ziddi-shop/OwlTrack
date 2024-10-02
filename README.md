@@ -26,11 +26,11 @@ This tracking tool can provide information about the telephone number you entere
 
 | Developer | Here |
 |--------|--------|
-| **Github** |[Here](https://github.com/IccTeam) |
-| **WhatsApp** |[Here](https://wa.me/+6283848301116) |
-| **Instagram** |[Here](https://instagram.com/iccfficial) |
-| **TikTok** |[Here](https://www.tiktok.com/@iccfficial) |
-| **Subscribe** |[Here](https://www.youtube.com/@iccfficial) |
+| **Github** |[Here](https://github.com/ziddi-shop) |
+| **Instagram** |[Here](https://instagram.com/
+qx.fx._) |
+| **Subscribe** |[Here](https://www.youtube.com/@ziddi_shop) |
+| **Telegram** |[Here](https://t.me/ziddi_shop) |
 ---------
  
 # Github
