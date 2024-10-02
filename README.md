@@ -76,7 +76,7 @@ qx.fx._) |
 [+] apt list --upgradable 
 [+] pkg install python -y
 [+] pkg install git -y
-[+] git clone https://github.com/IccTeam/OwlTrack
+[+] git clone https://github.com/ziddi-shop/OwlTrack.git
 ```
 # How to using
 ```
